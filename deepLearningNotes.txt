@@ -1,7 +1,6 @@
-
 •	Deep  learning is versatile.
 •	Calorific rays are beyond red light.
-•	780nm-3000nm is near infrared. 
+•	780nm-3000nm is near infrared (nir). 
 •	3000nm-6000nm is mid infrared.
 •	0.6 um – 300um is far infrared.
 •	Label encoding gives labels. However, one hot encoding gives matrix which gives 1 only for one column.
